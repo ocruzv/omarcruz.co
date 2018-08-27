@@ -1,0 +1,4 @@
+#social ul{align-items:center;display:grid;grid-auto-flow:column;list-style:none;margin:0;padding:0}#social ul a{color:rgba(0,0,0,.7);transition:all .3s}#social ul a:hover{color:#000}
+#contents{-webkit-column-gap:5%;column-gap:5%;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));row-gap:30px}#contents ul{list-style:none;margin:0;padding:0}#contents ul li{display:block;width:100%}#contents h4{margin:0}
+
+/*# sourceMappingURL=component---src-pages-index-js.c3c6af1857eb2c2038f2.css.map*/
